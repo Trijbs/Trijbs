@@ -1,40 +1,26 @@
- ## Hi there 👋
- 
-+I'm **Trijbs** — welcome to my GitHub profile.
- 
--Here are some ideas to get you started:
-+I'm a curious builder who enjoys turning ideas into practical projects, learning by doing, and sharing what I discover along the way.
- 
--- 🔭 I’m currently working on ...
--- 🌱 I’m currently learning ...
--- 👯 I’m looking to collaborate on ...
--- 🤔 I’m looking for help with ...
--- 💬 Ask me about ...
--- 📫 How to reach me: ...
--- 😄 Pronouns: ...
--- ⚡ Fun fact: ...
---->
-+### 👨‍💻 About me
-+- 🔭 I’m currently working on personal projects that help me grow as a developer.
-+- 🌱 I’m currently learning more about software engineering best practices, clean architecture, and developer tooling.
-+- 👯 I’m open to collaborating on interesting projects where I can contribute and learn.
-+- 💬 Ask me about things I’m building, what I’m learning, or how I approach problem solving.
-+
-+### 🧰 Tech interests
-+- Full-stack development
-+- Automation and productivity tools
-+- Open-source collaboration
-+- Building useful apps with clean, maintainable code
-+
-+### 🎯 Goals
-+- Keep improving my technical depth.
-+- Build projects that are genuinely useful.
-+- Contribute more consistently to open source.
-+
-+### 📫 Connect with me
-+- Trijbsworld.nl
-+-
-+
-+### ⚡ Fun fact
-+I enjoy breaking down complex ideas into simple, practical steps.
- 
+# Trijbs
+
+Creative designer and digital maker focused on branding, web design, and interactive experiences.
+
+## What I do
+- Visual identity & branding
+- Graphic design
+- UI/UX design
+- Front-end development
+- Concept development
+
+## Tools
+Adobe Creative Cloud · HTML · CSS · JavaScript · GitHub · Vercel
+
+## Selected work
+- **TrijbsWorld** – personal portfolio
+- **Urban Unleashed** – skate/graffiti campaign concept
+- **PopFusion** – music and lifestyle creative platform
+
+## About
+I combine design, strategy, and technical thinking to create digital work that feels strong visually and works clearly in practice.
+
+## Contact
+Portfolio: www.trijbsworld.nl 
+Instgram: www.instagram.com/trijbsworld/ 
+Email: rbdegroot@gmail.com
