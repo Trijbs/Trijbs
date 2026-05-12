@@ -11,7 +11,7 @@ Creative designer and digital maker focused on branding, web design, and interac
 - Concept development
 
 ## Tools
-Adobe Creative Cloud · HTML · CSS · JavaScript · Python · GitHub · Vercel
+Adobe Creative Cloud · HTML · CSS · JavaScript · Python · TypeScript · GitHub · Vercel
 
 ## Selected work
 - **TrijbsWorld** – personal portfolio
